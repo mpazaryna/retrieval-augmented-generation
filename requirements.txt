@@ -1,2 +1,8 @@
 llama-index
 python-dotenv
+langchain 
+langchain-community
+langchain-openai
+openai 
+tiktoken 
+chromadb

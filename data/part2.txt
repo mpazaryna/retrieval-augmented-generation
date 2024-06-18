@@ -1,0 +1,232 @@
+right the expenditure of Revenue 10 10 7 10 as a percentage of Revenue
+when you compare it to what's going on now with like the metaverse like these guys that you probably you know you've
+probably read some of the stories the stocks tanking and all this they're likely to spend 30 of their revenue now
+on just the metaverse product and so that's an example of a company that was maturity
+had kind of r d spent expenses in a more appropriate place but as they invest in a new product line you will see those
+expenses go up so it's not that it's a hard and fast rule but on a per product
+line and certainly when you're just starting up you have to be prepared for the fact that it's going to flip as you
+start going forward any is there anything surprising there you what's you have a question question
+on your last slide I think you have something called a g a yeah uh General General and
+administrative expenses yeah it's just kind of back office stuff
+so I'm sorry I should have I should be careful with my acronyms you're very right so it's software as a service
+and so it's it's the notion where you software lives in the cloud typically a subscription-based revenue model
+um it's generally the most popular software pricing model now very few people actually sell software that you
+install on on premise and subscription revenues are great for predictability and all that other stuff all right let's
+keep going okay so the purpose of this session is how do you think about this stuff up front and how do you build that
+in to the products the products that you're creating so let's so what we're going to do for the rest of the session today is this is kind of the agenda of
+the things that we're going to talk through to kind of guide us through this this this forethought of building
+products for delivery really we're going to start talking about um just the design in the design stage of the
+product how you actually design a product for go to market fit not just product Market fit but go to market fit
+we're going to talk a little bit about value prop um a little bit but what we call minimum viable segment and then how you build a
+build a repeatable product so when we talk about designing a product for um product Market fit the
+first thing you do when you're building you know a product is you build an MVP it's called minimum viable product
+um this will be a little bit of review just a couple slides I promise we won't we won't harp on it too much
+um but it's super important you triple check your value proposition before you do anything before you spend any money
+before you hire Engineers because if you're not solving a valuable problem nobody's going to pay for it and you
+won't you won't build you won't end up building a a valuable company and viable
+viable just means you can kind of build it and deploy it and the software works it doesn't mean people will pay for it
+so it's important that you really double and triple check that value proposition before you spend even a dime so you have
+that you have confidence in it this may look familiar to you this was part of the stuff that was discussed in that previous session two weeks ago you know
+this is the framing that we use to talk about kind of to value proposition but is is this a product that addresses
+a need is there an unworkable unavoidable urgent problem or an underserved Market we call it the four
+use and then there's the 3DS is the solution the product that you've built is it discontinuous is it defensible is
+it disruptive and again um I know this is a little bit of a little bit of review and we do those of you remember
+we did we talk about something called the black and white framework is is the product you know on that you kind of you
+get we have a nice two by two here where we talk about blatant latent aspirational and critical good example of latent and aspirational
+Gucci it's it's obviously aspirational generally speaking you see products that
+look like that more on the direct the consumer side consumers like it you can build gigantic multi-billion companies
+with something that's latent and aspirational so that doesn't mean bottom left quadrant is bad at all in this case
+um but it's not it's not um it's not blatant and critical on the other hand
+um those of you who are old enough or as old as me remember when the cell phone came out cell phone was a status symbol
+for a long time at first it was in the car you had cords and stuff there was no good reason to do that other than to
+flex on your friends and especially when you know the phones were like this big and you had to hold them hold them with two hands it didn't take long and the
+iPhone and the maturity of android devices really really changed it before it became absolutely blatant and
+critical it's critical you know I have kids like kids get phones when they're 10 11 12 because you don't even know how
+to pick them up at the bus it's blatant and critical for consumers it's blatant and critical for business so it is
+possible for products to move from latent and aspirational up as they
+mature and then I thought I'd just give a you know a little example of another one so
+Oculus or VR glasses any of you play VR games guilty um it's latent and aspirational now it's
+literally a toy um or or is it
+it's not this is an example of something that right now you might argue is still sitting in that lower left quadrant as
+an aspirational product it's clearly going to move up up into the right and
+not just because of what meta is doing with the metaverse but because of Industry um you know the ability to check this I
+think one of that screenshot at the top was the ability to kind of check the skin of an aircraft with VR goggles that can kind of detect stuff that you can't
+with your eyes to operate Factory machinery and you know not a pleasant subject but every day on TV with what's
+going on Ukraine you see what's going on with drones and everybody is wearing VR goggles to Pilot those drones it's now
+it's now a absolutely common part of War fighting question in India we have a defense incubation
+Center called uh Forge okay and the weaponizing Drone part is something that
+that is so deeply rooted with arvi and uh and uh and camera with his drones is
+it's so critical that at any particular point of time there is a pilot flying that Dune and he or she is supposed to
+neutralize some targets and even a latency lag of a microsecond can
+can result in someone else being shot so this is how critical it is becoming literally literally life and death yes
+literally life and death literally life and death and it's you know and look not everyone's building kind of you know a hardware product that that evolves and
+maybe you are that evolves in that way the broader point is to think about how your product fits in this Matrix in the
+late and aspirational blatant and critical Matrix as part of your envisioning your value proposition so
+you understand whether you're building something that's valuable and that may be even more valuable as you as you kind
+of grow into it so when we talk about bringing an MVP um to Market
+minimum viable product you've built and I'll I'll continue to do software examples just since that's my word and I apologize if you're You
+Know You're Building you're building something else or a piece of Hardware but you build something small typically you're building a fraction of your total
+vision and you and you've got an idea of the people that you want to sell it to
+but the most important thing is to be able to sell it to somebody repeatably and to be successful when you do that
+and that almost always means you need to find what we call a minimum viable segment and what do I mean by that
+what it means is of your Grand Market where you have a dream of you know building a deck of corn that could you
+know sell all of your stuff to all of these people you find one segment of that that has consistent needs either
+based on the four U's and and the 3DS and stuff that we talked about but it has consistent needs that you think you
+can take your small product solve a problem that's important enough for them
+and do it over and over again because one of the most important things when you're when you're starting a company is
+to be able to prove to yourself and prove to eventually your investors that
+you're solving a problem that's important enough even if that first segment is relatively tiny is not enough to you know do 100 million dollars of
+Revenue at scale prove that your first idea either works or doesn't for a minimum viable segment
+before you try to blow it out and create something much much bigger it's absolutely critical to think that way
+and so you find the MVP you fit it into these needs and by the way you ignore
+those other segments for now you've got your minimum viable segment and all you want to do is make them successful
+question was the size of the minimal by all segment it depends on what you're
+building ideally you want to be able to generate some Revenue in there but what but as investors we don't when someone
+talks about a minimum viable segment we're not we don't ask about the Tam for a minimum viable segment so the way we
+think about it is that the segment is small enough that if you're right for the problem you're solving you can
+dominate you could actually dominate that market so you've kind of you've carved out a space that's like okay maybe there's not 100 competitors I'm
+going right after this thing I'm solving a very particular problem and I can absolutely dominate it and by dominating
+it it's viable you've proven you can succeed in this market with your first idea and by the way doesn't matter if
+it's your first idea because you might try you might try it it might be a second it might be your third iteration but it's small bets you're not making
+you're not betting the whole house kind of right out of the gate but you want to make sure that there that it's a
+combination of pain points budget product use case Channel How would you
+sell into them how would you sell into that customer profile and the the center
+of the Venn diagram is your your MBS cluster of demand that was actually uh
+actually coined by a um as trainer the founder of intercoms of deca corn out on
+the west coast um and so and that's important right because what you've done is you've simplified the problem there's only one
+channel you're only talking to one department for their budget it's a simple product use case but you want it
+to be you want it to be big enough that you can prove those points but it's not about at this point it's not about
+Revenue it's about showing that you that your basic idea and then
+you repeat it and that you can repeatably sell it so you've got it you've found a couple customers that
+want to take this product and then you find five more that look just like them and you're able to do that then you have
+something and then you know you can put the pedal to the metal and be like okay I've got this like I'm dominating and by
+the way sometimes you can actually go out and raise money just by if the segment to your point if that minimum viable segment is small enough and
+you're getting just traction and and we'll talk about business models in a second if you've got a plg product LED
+growth where it's free to try and all of a sudden people just order start coming in sometimes you can raise money on that
+first shot because you've proved you've got something going especially if you have the vision the expansion Vision to
+go along with it so here's an example um this is an example from our our portfolio
+um a portfolio from a company that first did it the wrong way and then switched
+and figured it out so it's a company called the ploy um and when they started what they do is they're um they're a health care hiring
+and onboarding platform nurses doctors um you know a physician's assistant Etc
+all of that stuff but they had a Grand Vision for what the platform was going
+to do they had 20 different features they were going to have nurses doctors Skilled Nursing Home Health Care senior
+centers vets like everything spent a lot of time trying to build the
+product across it and did not do well they struggled struggled to raise money struggled to kind of get off the ground
+they peeled the whole thing back and said you know what hiring nurses nothing else
+and they had Tailwinds from the pandemic but they did this they've been they made that switch before the pandemic the
+company started going like this and now if you go to their website guess what's back
+Home Health Care Senior Living veterinary care because they prove to themselves prove to their investors that
+they were onto something honed the value proposition then expanded tried to do too much at first went for the minimum
+viable segment boom and now they're one of the best performing companies in our portfolio question yes the question I
+have how do you you determine the price for your MVP so we're gonna we're gonna talk a little bit about pricing so let
+me I promise you we'll get we're going to do a whole little chunk on on pricing because it's it's it's really important
+um so pause that and then you've hit me up if I don't get it right is there a question in the back how do you balance
+simplifying the problem and going through the small segment um with I guess like pigeonholing yourself into one like solving one
+problem when versus the multiple that you may have in your longer term Vision yes so I'll put on the investor hat so
+when we really like to see people that in there because then seed investors so we're usually like the first real check
+into a company and so we re we're betting on two things we're betting on
+you and we're betting that the vision is big enough to build a big company and so
+the vision is absolutely critical an understanding of what you want to become how big it is how you could that's what
+you know that's when you get the questions on Tam and all this how big like VCS will come right out and ask you how big can this get sometimes they'll
+turn you down and they'll be very blunt and just say I'm not sure this can be a big enough company so the vision is
+critical but when you start spending money and you know hiring Engineers or other people to build something or a factory
+Etc start with the small but always be able to articulate the big story
+is that is that helpful another question about the town uh what
+if you're doing well sure like there's lots of ways to do a company so um the VC rock kind of assumes you're
+going after a large market right but you can still have a very successful business you know making dollars a year
+to be a smaller company um but probably can't go to the BC Rob for that I'm assuming right
+so so 100 and if you and I were having a beer together and you were talking about starting company we'd have a very
+serious conversation about whether you want to build a VC backed company or whether you want to build a different type of business and the reason is
+exactly what you said as Founders and this just goes against the business I'm in but as Founders you can build an
+awesome business without taking VC money you can do SBA Loans you can do grants you can do all sorts of other stuff and
+continue to own most of the company and build a company that would not be interesting to VCS but would be an
+amazing outcome for you for your family for what and lifestyle so it's an
+important decision like you shouldn't just assume that VC is the only I think that's what you're getting at right that's not the only like because because
+I heard like a VCU might say no but then like somebody might take that as a value
+judgment of their company even if a VC is not interested it can still be a very good company right yeah totally agree
+and you know and certainly I try to be direct on nose and you know and it's and
+it's worthwhile if you're having a conversation with the VC and they say no try to cut through
+try to cut through the response right try to try to cut through the the kind of hand wavy response say no no I
+actually would really love feedback I love when founders do that and I will I will flat out say hey
+that sounds awesome that sounds like the kind of company I would want to work for here's how we think about investing in
+businesses our business we're venture capital is largely a hits business you want to invest in companies
+that can become very very large 100 million in revenue is kind of how we think about it we're like we want to be able to see a company that without
+squinting at it could become 100 million company therefore worth a billion dollars or more and if you have
+something that's a small a smaller market and it's you know you and the biggest company that's ever existed in that space is only 50 million that's
+okay especially if you've got a better product but will tell you directly that it's probably not a the word we use is a
+venture scale business but that doesn't mean it can't be an awesome business totally true
+how do you carve out which is the minimum viable segment so in this case of the upload they have Veterinary
+Senior Living Healthcare nurses all these like different segments that have different needs and different features
+for the product they're building how do you choose one of them to start focusing or if you're building a fintech you have
+low income middle income unbanked unemployed formal employees economy and you can build a product and solo problem
+like for a whole lot of customers but depending on the segment your will look differently how do you
+what is your criteria to choose one segment to start trying that MBS so the best answer is will be very unsatisfying
+but it it's talked to 200 potential customers and in your universe so if you
+look at if you look at go back to kind of the big the big universe that we're talking about you talk to as many people in that
+Universe before you do anything before you spend a dime before you drop out of HBS you talk to those you get on an
+airplane you talk to those 200 you talk to those 200 customers and you start you start doing pattern recognition that's
+the best way it doesn't cost anything other than time which obviously has value but doing that and understanding
+where your idea resonates the most and and you guys I'm sure you've taken tons of classes on it but when you talk to a
+customer you're not just saying hey what do you think of my idea you're saying how much would you pay for it or you're saying what are the four most critical
+things in your organization that if I could solve them for you tomorrow you'd be willing to pay for it's that sort of
+q a you do this you know you go on a you go on a tour and you talk to all these customers and from there you start to
+make some guesses of what it would be and then you can do stuff by the way you don't need to build a complete product
+either to do this we would do it PayPal as a PayPal for five years we can do paper prototypes like we would literally
+bring people into our our focused you know with corresponsive focus group sessions but it doesn't have to be fancy
+you can sit in a Starbucks with paper mock-ups with one of your customers and kind of describe what you were trying to
+build to get feedback it can be very inexpensive it's it's like it's gorilla customer research
+but that's the way to do it is to actually talk to them and then as if you have a workable prototype or a clickable
+prototype something that doesn't have any code behind it then you can go back and refine and see if your original assumptions were right and wash rinse
+and repeat until you feel confident enough okay I'm gonna actually spend some money on again in software real software development
+approach them with an idea and see to which segmented resonates more or you approach to them just to understand the
+different problems they have to then build an idea around them either it
+depends on who you are and the type of company you're starting and how you want to start it's you know I asked everyone
+to raise who started with a product idea right that a lot of people think startup is all about you wake up from a dream
+I've got this product idea I'm going to build this thing right lots of people start companies by just going and
+interviewing a segment like you might have an interest I'm interested in veterinary care or whatever just to harp
+on a similar theme and rather than kind of trying to invent the product I'm going to have coffee with 200 vets and
+ask them what their pain points are that's even ideally that's even better than kind of
+dreaming up a product and going and test it to them because it's even cheaper does that make to make sense
+how do you go about getting your 200 events
+that's old that's old-fashioned pounding the payment that's I mean there's there's no there's no shortcut to that
+you can buy lists you can get on LinkedIn you can ask every single you can walk into where you dog where you
+take your dog gets taken care of and ask them for introductions that's that's largely old school I mean other than
+kind of buying a list the nice thing is that so much of that stuff's online it's not super hard to quickly generate a
+list of folks to talk to you show up at a conference is a good one you buy just a you buy a guest pass to a conference
+of vets and you start walking around and meeting people at the bar or whatever that's I actually like doing that I just
+think that sort of thing you start to go to a conference I had a buddy who was trying to you know was going and starting to get into the contracting
+business and he started going to architect conferences that was it he just bought a pass and he's not an architect and he went and he just
+started meeting people and realized for this there was a segment that was underserved in construction
+okay minimum vile segment crazy Venn diagram but what you're really doing is simplifying the problem
+before you start pouring a lot of money into a hole it's not just about product Market fit narrow your target segment it
+by need really really focus your product but this helps not just the product building part of the equation it helps
+you start to hone your messaging and how you talk about it not just to potential customers but to investors it lets you
+start to think about packaging and pricing because when you ask when you ask someone you're on your tour for 200 you know 200 people you're trying to
+figure out your minimum viable segment hopefully your little 10 question list includes things like how much would you pay what do you have a similar product
+today how is that packaged how does that priced what do you like about that what do you hate about that when you have
+these conversations and you're narrowing your target you start to get answers to all these
+questions doesn't mean you get it 100 right but you start to land on a place where you've got something you feel like
+you can kind of wedge into this this minimum viable segment you start to learn things like channels and
+distribution Partners I'm going to talk about all kind of all this stuff in a second and reference selling Network
+effects viral business alignment we're going to go into all this stuff and so this is just a agenda slide we kind
+of Hit the front part we're going to go into the back half getting to Market um
+we're kind of trying around with this this word product facilitation um what we're really talking about is
+getting facilitating getting your products into people's hands so that they so that they so that they purchase
+it and you know what if you could literally slip into the lead in your minimum viable segment and so we've
+created a mnemonic device here we call it slip and we're going to kind of walk through four key elements of this that
+we think can really really help um how you it's a good framework for thinking about how you build a product
+that will be very very easy to distribute um the four the mnemonic device goes
+like this it's slip s is simple to install and use low to no initial cost instant and
+ongoing value and plays well on the ecosystem this is very similar to and you can read all
+sorts of books on the notion of product-led growth and so you'll see some similarities there it doesn't mean it's not meant to replace it's more of a
+mnemonic device that that helps you think about the different components of product-led growth so simple to install
+um you know one way to think about is out of the box experience and I don't necessarily mean I'm using that as a as
+a metaphor it doesn't necessarily mean there's a box but if there is a box it does mean hey it's easy to open the
+packaging it's easy to take it out it's easy to assemble but if it's software out of the box experiences hey how how
+is this super super easy to install do I have to even think about it is the onboarding process really really really
+really really easy and you want it to be simple to use as well it's not just simple to get going
+but simple to use complexity is almost always bad in kind of an onboarding process of any sort for
+software um and the first and you need to think about you know first principles Advantage disadvantage
+the true competitive Advantage is a combination of innovation and
+simplicity so you wanna you wanna innovate but it can't be Innovative to
+the point where it's so complex that no one will ever use this thing because then you then you just get tripped up even even if you've been successful in

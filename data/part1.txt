@@ -1,0 +1,104 @@
+what we're going to talk today about is how to build a product that scales into
+a company it's a you know it's it's super it's super common that when you start a company you
+start with the product so for those of you starting companies did you have a bolt of lightning where I've got a
+product idea and that was the Genesis for starting the conversation ordered or did you spend time deep in an industry
+where you understood a problem and decided to explore different products who who started their thinking with a
+product as opposed to as opposed to a market by the way most
+people do that's not just I'm not trying to I'm not trying to imply that that's not the right way to do it it's the
+right way to do it um but it doesn't always scale into a company and so what we want to talk to
+about today is about how you take that product idea and how from the beginning you can build in things like thinking
+about go to market thinking about pricing all the stuff that turns it into a big company as opposed as opposed to
+just thinking straight about the product to the agenda today is to talk about
+something that we call the the company Gap um and then talk about how we actually design products from the get-go to span
+to span that Gap and that involves both designing for product go to market fit and by go to market I mean you can
+actually design products to make them easier to sell and that's super important and then you can architect a business model on top of that which
+helps you scale your selling so pricing and all of that stuff so we're going to talk about talk about all that stuff
+today so the problem you've heard the term minimum viable
+product you've certainly heard the the term product Market fit um you know but it often doesn't get
+enough momentum to build a lasting company product Market fit so in the VC business one of the things we're seed
+investors at underscore and one of the markers we look for when a company is getting ready to a question number one
+do they have product Market fit so I do not mean to imply that product Market fit is bad it's just not enough to build
+a big company so when you're going out to raise a series a we want to see a little bit of Revenue we want to see a
+class of customer at least a minimum viable segment we'll spend a much time talking about that for which that
+product works and so you've repeatedly sold that product a couple times but there's a lot more that has to happen to
+get to the next round of funding Beyond just that product Market fit so product Market fit is just one step just one
+step along the way so the the challenge is something we call the The Product Company Gap and I
+figured I'd you know since I I actually started a company I figured I'd tell you about a company that actually failed to get across that Gap um and that might be
+useful I started a company called padient um it was a mobile payments company QR code payments before it was
+happening in China and Korea like we actually had to write we had to code our own QR Code Reader we hired a satellite
+imagery engineer to build our own QR Reader from scratch the idea was hey we
+could use QR codes instead of credit cards to pay for stuff um we knew like we had we started
+companies before and we knew that it was going to be hard to build a company a direct a consumer company how are you
+going to get millions of people to stop using their cards and and start using QR codes so we took a different strategy to
+try to address what I call this Gap to take it from a product idea to something that we can actually deploy at scale in
+the marketplace and so we decided to go out after huge retailers we had success
+signing Best Buy in Walmart and big retailers like that that would use our technology but build it into their own
+app so we were like okay we're going to use a partner and they're going to be the ones that deploy it for us so we
+don't have to do the whole direct-to-consumer thing the problem was we didn't we had no idea
+how hard it was to get an I.T department at Walmart or at Best Buy or Target to
+actually deploy this stuff and do the work see that little payment terminal right there that is a 10-year replacement
+cycle doing anything on that payment terminal is like brain surgery for a
+retailer and so although we ended up selling our company to PayPal because we had good kind of core technology we it
+never got it never turned into a huge company we got a choir we were doing like 10 million in revenue and even at
+PayPal with all those resources we couldn't get across the gap into it being a scalable company easy to deploy
+millions and millions of users using it on the other hand so not all not all kind of bad news here's an example of a
+company that did get across it so YouTube prior to Google it's founded in 2005 or
+so in one year they're one of the fastest growing sites on the internet 20 million 20 million uh users a month
+absolutely crazy and in less than two years they require a Google for 1.65 billion dollars which in 2006 was just
+an absolutely astronomical amount of money they were growing so fast before
+they were acquired the platform was falling down it was getting way too expensive to run there was no economic
+model whatsoever and there was no prayer of getting across this Gap without someone like Google to come in and what
+changed they figured out how to monetize it with advertising and YouTube alone
+within the Google ecosystem is going to be like a 30 billion dollar business this year so there's it is possible to
+get across that it doesn't have to be Google but you need to think about it's not just having the best YouTube was
+amazing it was one of the best product in the world it was one of the fastest growing internet sites but just having the great product isn't enough to get
+across this Gap so the whole point of today is to talk about the The Product Company get
+so it's a it's all about the product right you know it's funny I'm showing the iPhone here Steve Jobs is
+I don't know maybe you guys disagree but he's probably the greatest product manager that ever lived period right
+he's all about the design all about the Aesthetics of the device so what do you do in this little we're going to try to
+get a little interactive here and by the way feel free to interrupt me raise hands what was the big innovation for the
+iPhone anyone I mean odd uh the touchscreen
+touch screen touch screen so the second thing you said so touch screen clearly the hardware form factor was Innovative
+they went for a full screen the device was gorgeous coming out of the gate it was the thing to have it was like a
+luxury item it felt beautiful that it was packaged beautifully but I'm with you the real Innovation was
+the App Store the ability to have tons and you know tons and tons of apps so that your device could be completely
+customized to you and not just the App Store one year after the App Store launched you know what they did they
+they introduced in-app purchases so the ability to and we're going to talk a lot about this notion of pricing your
+products or making it very easy to deploy products this notion of hey I download an app it's totally free but
+then you can upgrade and you can make an in-app purchase and they get 30 of all
+of that so it's not always just the product it's not just Steve Jobs thinking of this you know beautiful
+aesthetically beautiful device it's also the go to market and the pricing and all
+of that stuff that turned it into what of course is just absolutely Blockbuster business um
+so here's something here's something maybe it's surprising for you maybe it's not so you guys are early in your journey how many of those of you who
+have started a company how many of you are like actually starting to write code and kind of doing all this stuff
+anyone writing software yet okay so in the early days of a software
+company certainly you spend all your money on development it's you know maybe one founder is a technical founder one's
+a business founder but the first five hires are going to be more technical people to kind of build out the product and start to do it but as you scale the
+company you end up spending way more money on sales and marketing than you do on on the product and I'll share some
+share some data with you that kind of that kind of backs that up what will actually happen is that your expenses will flip so in the early days you've
+got your team you hire five or six Engineers certainly as seed investors when we invest in when we invest in seed
+companies very often it's you know one maybe non-technical person and the rest of the folks are Engineers for example
+no marketing people no director of sales no customer success people but what happens is as you start to
+bring your product to Market and you get past this kind of MVP and what we call founder-led sales where the founders the
+one Founders the one sales person and they go out and close all the deals as you start to get past that what happens
+is it flips you start to have to spend much more money on on marketing than you do on
+development now what actually happens is that there's there's in the SAS business
+and I'm maybe not all of you aren't creating SAS businesses um there's rules that have started to emerge about how you Benchmark companies
+that are doing this thing there's a rule called 40 20 20 where for mature mature
+companies in a mature line of business forty percent of the revenue is on sales and marketing 20
+um is on product and research so it's actually sick it's actually 60 it's actually uh 60 to 20 60 to 20 in in from
+SG a compared to r d for a mature scalable product and this is literally these are literally benchmarks that
+people use to to more and more these days too especially since valuations are compressing and everyone actually cares
+about metrics again these are benchmarks people use and certainly investors use to Value companies decide how much money
+to invest in it this is data and I put a link down here it's actually worth kind of digging into um crunchbase did a survey across all
+kind of software segments but SAS was one of the biggest ones but social networks and others where they looked at
+how the expenditure change how the expenditures on R D changed as a company
+approached a public offering and if you look Salesforce and log me in to kind of
+put classic public company SAS Salesforce in fact invented the SAS business model and if you see you have
+their their products spend as a percentage of Revenue changes as they approached IPO
+just what I was saying right it's starting to go down both of those companies are profitable you look at a
+more recent IPO mongodb they're not profitable even so heading
+into the IPO they're kind of trending towards trying to get to that 20 percent but perhaps part of the reason they're
+not profitable they're still spending a ton on R D and then when you look at someone like Twitter
+um huge in the early days huge kind of r d expenses generally trending down one
+of the ones I found super interesting though of course was meta so as meta was getting ready to go public they were a super efficient product organization

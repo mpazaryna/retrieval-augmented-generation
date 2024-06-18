@@ -1,0 +1,295 @@
+selling it right out of the gate less is almost always more I know we keep I know we keep talking about kind of Simplicity
+Simplicity minimum viable segments and all this stuff you look at you know these two remotes one is clearly a
+superior product easier to use and all of that stuff and you know it's like it's the reason why things like
+software as a service like you know Google Docs and all that stuff like you know I don't know if any of you have used word recently it's like it's insane
+like the number of menus and the number of features and all that stuff and people have kind of pulled back from that in general in the software world
+and are really looking for products that solve basic problems super super super easy and this is just an obvious obvious
+exam whoops wrong way obvious example um and simplify it and see to simplify
+it to your core value again this is just focus guys especially for this first kind of wave
+of investment that you're going to be making keep it simple minimum viable segment solve one or two maybe three critical
+problems for this group that you've identified that has a handful of needs and nail it
+oh the question Yeah question for you so the introduces showed
+what the the remotes yeah so you said one is clearly the most Superior and
+simple simple um to use but I don't know I would say maybe you could say one is
+more Superior and the other would be more simpler you're right I made a value judgment
+you're you're totally right like there in this in this particular case where
+buttons versus control services and stuff happens to be a fairly uh
+subjective uh subjective uh design principle um Apple historically absolute leaders
+in design they create a device that's tiny the battery on that little thing lasts a year
+um is it Superior design would you prefer to use it rather than buttons you're right it's personal taste I can't give
+you like hard facts and data but I will tell you this that the notion of instant gratification in consumers has become
+very very powerful um you kind of started with the internet and being able to get online instantly you can purchase something with you can
+purchase something with one click you order something that's in your house in one day like this whole this whole push
+towards everything is one motion economy of motion and then you get you get the
+dopamine hit of your pet you know your Amazon package showing up within 24 hours of ordering it that is a trend and
+that's that's clearly happened um there's also economies of economies of scale and building simpler simpler
+devices that do one thing incredibly well um especially with consumer devices
+though it is it's consumer consumer devices in particular are very taste driven do I think that we're gonna you
+know go back to a world of you know giant phones with lots of buttons I don't um
+I think that this this this technological move into kind of simpler
+looking devices aesthetic devices is probably permanent
+so is this framework part of testing the MVP because what I'm struggling with this
+especially for Hardware products how to use these framework because initially
+you are going to start with something over time it well well not necessarily I mean so
+you're a hardware person is that is that why you're asking tell me tell me about what you're working on I'd like to
+like like one thing but
+but are embedded in Furniture yeah oh awesome right but then
+the technology takes time to evolve but we
+so so I think I think what you're referring to and correct me if I'm wrong is that when you design something
+on a hardware basis especially electronic device you've got breadboards you've got wires coming out all over the
+place it's maybe bigger than you want it to be at scale and all that stuff there's the complexity of a prototype
+um what I'm more talking about is the complexity of the problem that you're solving so you could have this crazy
+prototype that looks like look you know this rube goldbergian crazy thing that kind of came out of the lab and looks
+like it but what you're really testing is if I put a piece of cloth over it and I just rest my phone on it that it instantly
+starts charging and so it's it's the Simplicity of the use case more than especially in the early days of when
+you're prototyping Hardware does that make sense is that a fair answer is it because it's not like is that because I
+I'm what I'm if you had told me hey the first device we have is going to allow
+charging in an armchair and charging on a refrigerator and it's going to have it's going to have a connection for you
+know Apple watches and and airpods and all this other stuff I would actually say why don't you just start with the
+let's make sure the armchair works and the consumers like it like someone a Furniture maker because you'd probably want to do that through Partners a
+Furniture maker would actually embed your charging pad your charging pad into that get that question answered before
+you start adding features to it that's that's the Simplicity that I'm trying to drive you towards does that make sense is it okay all right yeah yeah one of
+the questions how do you think about MVP for such Hardware projects because you don't want to
+invest so much effort up front before knowing whether there's a market already
+right harder harder and Hardware because so
+again I think I'd go back to the same thing again for um for let's just use your example for a
+hardware charging device I would encourage you to find find a Furniture maker that's you know
+you know that's uh that's doing kind of a you know a kind of a group a group financed uh piece of furniture you find
+someone in Etsy that's making something or you you work with wood you don't have something that gets covered with necessarily has to be embedded in the
+manufacturing process perhaps it's something you could stick on you know a chair an adhesive with a battery that
+lasts four years or whatever it is but again a simple use case as opposed to
+trying to solve every problem that you're envisioning you can tell the you can tell the VCS that are going to back
+you I'm going to solve this it's going to be in everything that's going to be in every Airline chair it's going to be in every chair every public space and
+all that that's the story you tell when you're painting how big your idea could be but when you're first getting started
+if you could have that giant vision but if you can't get a single furniture
+manufacturer to agree to embed that thing in there it's not going to work and so you want to prove that first
+is that I'm not a hardware guy so hopefully I didn't like step in it but it's a
+so let's why don't we do we thought we'd do we thought we'd do a little um a session kind of breakout with each of your groups here
+um one of the here's here's the first idea and we thought that you could maybe have a group discussion of what is one
+way you can make your product super simple to install and since we have hard
+Hardware people I think you can think about that expansively depending on what your company is you know is it is it
+simple to install is it simple to deploy is it simple to use
+but within your group have that conversation and then you know we can chat for five minutes is that we're
+doing kind of five minutes ish and then we can kind of get readouts from folks on what they what they talk about it's also a great way you saw everyone kind
+of raise their hands I I'm sure everyone doesn't know each other it's also a great way just to hear how other entrepreneurs think which for all for me
+was always the most amazing thing so all right let's do it five minutes or so okay cool
+I need one or two teams that came up with something interesting and unexpected in the conversation did
+you learn something who wants to who wants to share we're not going to do everyone know we're gonna we'll pick as we we've got a few of these so we'll
+pick on other people everyone will get a chance to talk but any volunteers to jump in out of the gate
+I explained my company and what I want to get done and I don't think we talked
+about like how we can make it simple we just talked about how how it's going to work so I'm sorry that we did not no
+that's okay what's your company just uh because that might be interesting for everybody so my company is called the
+pitch app I'm trying to design an app um that it's like a tender for entrepreneurs and investors so you sign
+up as an entrepreneur and you sign up as an investor much like Tinder uh you
+upload a 45 second video of yourself pitching your idea and the investor is able to swipe left or right and connect
+you um based on geo location and or category I do think this could get bigger I
+eventually would like to to go to like music or actors so like if you're a
+musician and you don't need a manager um the app can connect them that way but
+I think the MVP or what I learned here with or my segment would be
+um the investor entrepreneur um around that I would take super super
+cool super cool thanks for sharing anyone else wanna we get one in the back why don't we so hi everyone my name is Bill Kirk so
+my Venture is called foodie thank you Leo right now we're in in the process of interviewing restaurants so it's in the
+food technology segment don't be stuck with the name because name name is gonna
+change so it's an um it's an app that integrates processes at restaurant so
+with the help of QR codes on the table QR code as well um you can it allow the app allows for
+the customer to browse the menu select their items edit their dishes place the
+order and also make the payment and leave whenever they want so what we were thinking to make the
+installment process simple is that overthinking is that why don't we remove the installment at all so rather than
+starting with a full-on app proper ad with a lot of features keep it as simple as possible simple is good so we would
+start with a web-based app in this way the customer does not need to download
+the app they will probably not even know that it's an app or our company is called foodie they're just scan the QR
+code on the table which will take them to the platform and they will just order and pay and leave
+exactly exactly what we were talking about other things that came up actually in the group discussion uh we need to
+make the QR code process ex frictionless as possible so probably uh put below the
+QR code put the Wi-Fi code so everyone has the access make sure that actually the restaurant has Wi-Fi so we can uh
+actually the app works it looks like there's a question right behind you or is it oh sure and I think you should
+also talk about how you are going you should also mention your awesome idea of how you are going to integrate it
+directly with the restaurants already existing systems so the cooks immediate
+immediately yeah exactly there was a question whether we would have a second dashboard in the kitchen and the idea is
+for us to integrate in because in the restaurants API or POS system so they
+would automatically get um the orders under one screen and they
+don't need to follow two types of screens or reporting it's exactly the type of thinking we
+want to be doing kind of at this stage thanks thanks for being brave enough to share all right let's keep going all right the
+second so we're just to Circle back to the kind of simple to install was number one s now we're getting to El low
+initial cost um and what does that mean it could mean frictionless trials it could mean free
+samples of textiles enough maybe to test manufacture some stuff it means lower
+cost of customer acquisition you can identify prospects with the freemium you
+know for everyone know what freemium is it's free and then you upgrade premium offering um but be careful
+because free often people will often equate the value of a product with what
+you charge for it and so sometimes there are certain products that if they're free forever they start to think of it
+as value less and so generally speaking a free trial period that emerges into
+you know into something that people have to pay for is is uh is preferable to kind of just going full free all the
+time um because then also when it's free if there's a like a free version you have to you're constantly upselling to get
+people to kind of to kind of uh to kind of upsell and an example of this is LinkedIn we all use LinkedIn it started
+as a place to just upload upload your resumes I mean to basically have an online version of your resume quickly
+became a social network but what these guys have done a brilliant job of is there's they built a giant they had all
+the network Effects by having a free product and they have just piled on the the uh the premium products you've got
+sales Navigator you've got in mail you can buy extra inmail messages you can have the premium version of of LinkedIn
+and so it creates this virtuous circle but they got the network effects get everybody hooked on it with the free
+product to start so low initial cost
+I instant and ongoing value so you want to reduce the pain and this is what I
+think you were exactly what you were talking about when you were talking about you know your ideas and especially in a restaurant setting reduce the pain
+for customers to try and adopt it pain is the single biggest barrier to
+getting people to adopt your product and so you need to demonstrate enough gain quickly enough that you'll overcome
+you'll overcome the balance and so if you think about the game we talk about it in terms of the gain pain ratio
+you know this there's this thing that we call a nurture risk which is in the middle which is switching costs I've
+already got something that does something similar it's kind of a pain in the butt to switch doing nothing is probably just an is easier than kind of
+trying a new product or maybe there are other Alternatives that are good enough I don't want to risk I don't want to
+risk a big license fee on a startup there's kind of this this inertia that can keep people from trying stuff so
+your job um is to create the value proposition
+that overcomes that pain gain ratio whether it's generating new Revenue savings you're saving time you're saving
+the cost of hiring people a competitive Advantage reputation Etc to overcome the pain that it takes
+people to discover something try it buy it implement it deploy it and own it
+and if you can do this instantly it's incredibly incredibly powerful um you know we talk about instant
+gratification I'll give you an example of a company that I think does this very well um but in the Enterprise setting if
+you're selling something to a big company if you can we call we call it time to Value if the time to value is
+sub three months that tends to be great um in the Enterprise world when you're selling to big companies because it
+makes it easy for people to do um you know cost models on what it's going to cost to do this and when
+payback begins if it takes longer like super long time to implement and you
+know install it at the factory and all that other stuff it's much harder to get to get over the hump and so you want to
+get this time to Value as short as possible and the ongoing value again make sure that you're delivering value
+on an ongoing basis it's not just kind of a one and done increases Revenue reduces time drives competitive
+advantage and in the consumer World consumers just simply can't live without it one one example this is an enterprise
+Enterprise software company it's an investment that I made it's called Ai and one of the things that I like about
+them is they've actually and before I was getting set up to do this I didn't realize they had kind of hit all of the
+slips it was kind of baked into their baked into their DNA and there's a reason for that the guy who founded it
+was one of the early employees at Braintree which is a giant payments company owned by owned by PayPal and
+they basically decided to build a company of all the dozens of things that customers
+complained about when he was at PayPal but PayPal could never get around to fixing they built a company that did all
+that stuff and the interesting thing is that these guys so basically what they do is if you're a big e-commerce company
+like Adobe or Ticketmaster or something you've got 10 different companies that process your payments all over the world
+there's no way to analyze all that payment data yourself they aggregated all that payment data and do analytics
+and all this other neat stuff but the neat thing the sales guys can onboard them in a phone call they
+say hey give me the key to your payment provider you know the encryption key so they can get the data and they will
+demonstrate their first demonstration will be ingesting the all the data into their product over the phone and they
+get to see all their data in these dashboards and so it's literally instantaneous and so that means it's
+easy onboarding and as you'll see when we talk start talking about pricing models low initial costs they do
+something very close close to a freemium model instant value creation because people deploy it right away and start
+saving money detecting fraud and all that stuff and um and and it supports all all of the payment platforms it
+plays nice plays nice in the ecosystem so if you're so here's a startup secret
+self-proving value if your product is about improving a process provide proof as part of the product
+um these guys pagos they Baseline all the results of these payment processing companies then when they install the
+product you actually start to see how you're performing against benchmarks provide key metrics and visibility into
+the progress so people like oh this is working I can actually see so it's it's almost self-documenting it in the
+product itself proves that what you're doing um what you're doing is actually delivering value that means analytics
+and surfacing reports that prove the value kind of right right out of the gate so here's another quick exercise and we
+may skip one or two of these just since we're we have so many we had so many questions and we're running a little short on time but I think this is a good
+way a good one because when we you know I started talking to people about the last question you know one was how can
+you make it easier to install good question well it's an app and apps are easy to install and so we had a follow-up in that another person shared
+I'm building a textile product there's no installation so we had it we had a sidebar I think this particular one
+um actually should work well against kind of all the different types of companies that we're talking about if for the company that you're building
+what are different ways that you could streamline that time to value for your
+first for your MVP and free for your first Market segment so why don't we take a quick five minutes on that and
+then we'll hop back in and uh and and get going all right we got it we had our first
+team talking here all right I'm working on a book for uh parents
+that have children with learning difficulties and are having a hard time to learn how to read
+so the idea is that with this book that we have actually developed and tested
+but with professionals that work with children with learning difficulties
+um to turn it into a book for parents so the things we were thinking of how to
+make this instant value was maybe coupling the book with an app so parents
+can test their children to see the progress and where they start so maybe
+they can understand okay maybe my children is not at the same pace of reading as other children their age and
+then see how they progress and that would also give us evidence that the book is actually working that is super
+interesting bingo I think you nailed it what do you guys think well done
+all right we're going to keep going thank you for that that's awesome okay the last part of slip P plays well
+in the ecosystem and I'm going to talk to you a little bit about uh what that means I'll just I'll use another example
+this company tetrascience they're they're local actually they came out of they came out of Harvard uh Harvard Business School they build a cloud for
+the life sciences it connects all of the research devices collects data from all those research devices and builds a
+cloud and if you start to look at the ecosystem that they play in so we're talking about playing nice with others
+look at the complexity here and the way they talk about it is we're going to be
+this Cloud that ties all these disparate platforms together and so they're part of their explicit strategy is to play
+nice in the ecosystem not only that but be a Clearinghouse and a central point so this involves you know Partnerships
+with all of these different companies technology Integrations but this is an example of a company that explicitly was
+about the ecosystem and being a player in the ecosystem we talked about slip I'm going to skip that let's jump into pricing
+um because I wanted to make sure we spent spent some time on this how you price your product is super important to
+that early friction and you know I'll show you an example that you'll all be like oh yeah like every everyone does
+this but the idea is if you can if there's a way I'm thinking textiles
+again is is there a way but I think there's a way that you can provide things like free free samples and other
+stuff or make your platform free or create developer kits for Hardware that
+doesn't cost anything so that people can start to use your product test it out and then you have a way to step them
+through increasing the value of your offering and increasing the price that
+you charge them and what is that what's an example of that in this in the software world and even things like
+Airlines everybody does this that's HubSpot that slack
+that's Vimeo that's WordPress you guys I should have put JetBlue in there you ever seen what
+the JetBlue pricing looks like it looks like that too it's basically you get to walk through there's a way you can get
+in cheap and then there's a way that you can upgrade and in the world of startups providing especially if you need if it's
+b2c and you need lots and lots of users or it's or it's or it's um or it's you're selling into an Enterprise you
+want to get them using your product as soon as possible but you have to have a
+way to kind of walk them up the value chain and it's I think things like this this is what we call product-led growth
+in the software business which is you can install the product it's free and as soon as people start using it you start
+doing cha-ching as they upgrade for more seats and kind of all this other stuff very very important
+um and talking again just going circling back to the ecosystem and playing nice with others it's not you don't have to
+just think about being the center cloud of the ecosystem that's that's not always what it looks like there's a a
+local company called clavio that does SMS marketing and
+platform for SMS marketing and they were kind of selling it to e-commerce customers so you can kind of market and
+send text messages to them and all that stuff but in order to do that they needed to have Partnerships both
+Technical and business Partnerships with all the wireless carriers so that they could send text messages over over the
+wireless network but the thing that made these guys made them into a billion dollar company was
+their partnership with Shopify so they started off as a feature in the shop if you guys know what Shopify is the
+e-commerce e-commerce uh platform they started off as a feature and then along the way Shopify blessed them as kind of
+the the default standard the preferred I think they call it the preferred marketing and SMS platform boom unicorn
+uh unicorn was born and so Partnerships it's not just playing nice in an ecosystem with the different Masters
+that you serve and kind of a super complex like that life sciences product it's also picking partners that are part
+of your product from day one that can help you grow they're either on the right side here they're necessary for
+creating the business in the first place or they can be provide leverage for you to make the product product explode do
+you have a question you're racing comment about that I do a lot of e-commerce Consulting with Shopify
+customers yeah and I'm in a Facebook group and in the group it's like a free
+CEO paid at least two thousand dollars a month to be on shopify's highest tier
+and everybody in that an app provider in Shopify pays um so it's like a community yeah he paid
+to be in the higher tier if you're in this tier here's this group so like all the users of Shopify who like the owners
+of the companies they they're in that highest tier they talk in that group and that you could hear them always talk
+about this tool plavia to each other yeah they're like what do I use use clavio I mean it was weird because it
+was new at the time yeah they somehow managed to get into that like uh Word of Mouth well so they got
+into word of mouth but then also so it was a combination it was Rising Tides right they were doing quite well and at some point Shopify it became a tight
+partnership but Partnerships can change the trajectory of your business whatever the whatever your business is you know
+you could have a partnership with the hardware manufacturer a partnership with the furniture manufacturer you know partnership on the on the textile
+manufacturing side super super important way to think about playing playing
+niceness to pee on the slip playing nice in the ecosystem so really good question I'll just repeat it for everybody do we
+so and I think what you're talking about so one of the ways a partnership can take place is you can actually sell through Partners you could say here's my
+product and the partner is going to do distribution for you and they kind of they end up being in front of you in in
+between you and your customer potentially or is it better off to kind of just go it alone and kind of and and
+launching your own that's actually it really depends on the business and what you're saying is true
+um that said if you it depends on on how much you think a partnership could accelerate what you're doing and so you
+have to kind of balance balance the the loss of a hundred percent of customer control if you have a selling partner
+um with the acceleration of your business one of the common ways to solve for that is a short contract
+if you really want to go it alone because that's that's a so that's exactly what my company we did we're like you know we actually partnered with
+big big companies that were actually reselling our stuff and eventually we were able we got enough traction that we
+were able to switch over and kind of cut the cut them out of it and go direct to our customers because we had built credibility
+okay we're coming to the the home the home stretch here um so
+let's let's let's do this I'm I'm set up doing kind of a proper breakout I'm going to just give you the chance just
+to we'll do this kind of one in real time but for each of you think of one partner or two partners that you think
+you should partner with for your particular idea and I'll give you like 60 seconds and then I'll just start
+calling on you randomly you got one already all right what do you got so so with my
+app idea I think I would be able to partner with LinkedIn and call it linked up but I can just add a feature and
+it'll be a feature to their product that's already developed so linked up for pitch pitch decks or
+pitching swipe right swipe left admitted LinkedIn I like it so I think I can partner with curriculum
+Associates so what was quickly what's the business again so I helped um
+classes diversify by bringing Experts of color into the classroom yeah
+um so now that everybody there's a lot of conversation around uh diversity in
+the classroom I could give the big textbook companies
+to use my products to help Pearson MacMillan and like you know I was gonna bring that diversity in the classroom so
+they integrate my own product directly into um their own products now it's a great
+idea super big companies and maybe you partner with them in a way that it's not in all their textbooks you become you
+you do it on a smaller publication that you can get them to pay attention to you at first then you work your way through
+the organization but you have to find in these Partnerships you have to find a champion that believes in what you're
+doing and has enough pull to kind of do something with it anyone else want to share a partnership idea we don't
+I think we can partner with POS systems so toast is the market leader but the
+market POS Market is extremely fragmented even though toast is market leader they only have 15 market share so
+with any POS systems who are ready to take down toast with us I think they'll
+be interested in partnering with us plus they're local you can just you can walk over there and just bang on their door if you want to you and I can have a
+conversation an endless conversation about trying to partner with pause people by the way that's a super fun anyone else
+all right home stretch guys um okay so we talked we talked about Bridging
+the Product Company Gap hopefully you've kind of you understand how that's different from just product Market fit
+right you get product Market fit and then you need to get over the Gap with a product that has a good value
+proposition minimum viable segment keep it small repeat it and then you can kind of go
+broader and then we the second half we talk about business model and you can build you can be doing this thinking of
+business model from day one it's not something that comes later right you architect your product for slip super
+easy to install low cost Etc that can all be part of day one planning it just
+requires thinking it doesn't require a whole ton of actual kind of work to do it package it price it free to try for
+actual pull make it very easy and make it very easy for people to to adopt it and use it
+anything else I'll Stick Around by the way if you guys want to you know pick my brain I'm gonna drink a water and just
+park for a bit if you guys want to chat and we'll I'll make sure that you also you guys I'll just send my email it's
+Chris underscore.vc if any of you guys want to reach out I'm happy to chat happy to come on campus happy to spend
+time or do a coffee hour or whatever all right thanks appreciate it
+[Applause] [Music]
+thank you
