@@ -28,10 +28,19 @@ def test_fetch_data_invalid_url():
     assert status_code != 200
 
 # Test the fetch_data function with an invalid mode input
-def test_fetch_data_invalid_mode():
-    mode = 'invalid'
-    input_data = 'test'
+# def test_fetch_data_invalid_mode():
+    #mode = 'invalid'
+    #input_data = 'test'
 
-    with pytest.raises(ValueError) as excinfo:
-        fetch_data(mode, input_data)
-    assert str(excinfo.value) == "Invalid mode. Please enter 'r' or 's'."
+    #with pytest.raises(ValueError) as excinfo:
+    #    fetch_data(mode, input_data)
+    #assert str(excinfo.value) == "Invalid mode. Please enter 'r' or 's'."
+
+def test_invalid_mode():
+    mode = 'x'  # Invalid mode
+    url_or_query = "test"  # Dummy value for url_or_query
+    expected_output = "invalid input"
+    
+    result = fetch_data(mode, url_or_query)
+    print(result)
+    assert result == expected_output, f"Expected '{expected_output}', but got '{result}'"
