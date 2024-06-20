@@ -7,3 +7,9 @@ openai
 tiktoken 
 chromadb
 pytest
+
+# pinecone
+unstructured==0.7.12 
+pinecone-client 
+clean-text 
+langchain-pinecone
