@@ -245,8 +245,8 @@
     {
       "id": "pinecone_0",
       "position": {
-        "x": 703.6640448571669,
-        "y": 367.28795425440416
+        "x": 702.224731929985,
+        "y": 368.7272671815861
       },
       "type": "customNode",
       "data": {
@@ -373,7 +373,7 @@
           "document": "",
           "embeddings": "{{openAIEmbeddings_0.data.instance}}",
           "recordManager": "",
-          "pineconeIndex": "serverless-test",
+          "pineconeIndex": "build-a-product",
           "pineconeNamespace": "",
           "pineconeMetadataFilter": "",
           "topK": "",
@@ -415,8 +415,8 @@
       "height": 606,
       "selected": false,
       "positionAbsolute": {
-        "x": 703.6640448571669,
-        "y": 367.28795425440416
+        "x": 702.224731929985,
+        "y": 368.7272671815861
       },
       "dragging": false
     },
@@ -430,7 +430,7 @@
       "data": {
         "id": "openAIEmbeddings_0",
         "label": "OpenAI Embeddings",
-        "version": 3,
+        "version": 4,
         "name": "openAIEmbeddings",
         "type": "OpenAIEmbeddings",
         "baseClasses": [
@@ -488,6 +488,14 @@
             "optional": true,
             "additionalParams": true,
             "id": "openAIEmbeddings_0-input-basepath-string"
+          },
+          {
+            "label": "Dimensions",
+            "name": "dimensions",
+            "type": "number",
+            "optional": true,
+            "additionalParams": true,
+            "id": "openAIEmbeddings_0-input-dimensions-number"
           }
         ],
         "inputAnchors": [],
@@ -496,7 +504,8 @@
           "stripNewLines": "",
           "batchSize": "",
           "timeout": "",
-          "basepath": ""
+          "basepath": "",
+          "dimensions": ""
         },
         "outputAnchors": [
           {
