@@ -34,7 +34,7 @@ def get_response(chain, question):
 def initialize_chain():
     PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
     PINECONE_ENVIRONMENT = "aws"
-    PINECONE_INDEX_NAME = "test001"
+    PINECONE_INDEX_NAME = "build-a-product"
 
     retriever = initialize_pinecone(PINECONE_API_KEY, PINECONE_ENVIRONMENT, PINECONE_INDEX_NAME)
     chain = create_chain(retriever)
